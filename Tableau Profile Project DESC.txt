@@ -1,0 +1,5 @@
+TABLEAU PROFILE PROJECT DESCRIPTION
+
+This profile project features an interactive dashboard that allows users to easily select the metrics they want to view, such as average overall rating, food rating, or entertainment ratings. Users can effortlessly switch between these metrics with a simple click. Additionally, the dashboard includes useful filters to help users find specific data points. Each visual also acts as a dynamic filter, enabling users to select the desired date or country of interest.
+
+https://public.tableau.com/app/profile/rashmi.annae/viz/Dashboard-BritishAirways_17289549848370/Dashboard1?publish=yes
